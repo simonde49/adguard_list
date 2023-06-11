@@ -1,0 +1,7 @@
+!
+! Title: Black filter Perso
+! Description: Black list personnel pour Adguard
+! Last modified: 2023-06-11
+
+||adclick.g.doubleclick.net^
+||googlesyndication.com^
